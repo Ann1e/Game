@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Game</title>
+<link rel="stylesheet" type="text/css" href="style.css" /> 
+</head>
+<body>
+<div><img id="top" src="p/top.gif">
+<div><img id="me" src="p/me.gif"></div>
+<div id="Game">
+<div id="Dali">
+<div><img id="pdali" src="p/pdali.jpg"></div>
+<div class="box1"><p class="pa">下关</p></div>
+<div class="box1"><p class="pa">古城</p></div>
+<div class="box1"><p class="pa">三塔</p></div>
+<div class="box1"><p class="pa">苍山</p></div>
+<div class="box1"><p class="pa">天龙八部影视城</p></div>
+<div class="box1"><p class="pa">双廊</p></div>
+<div class="box1"><p class="pa">洱海</p></div>
+</div>
+<div id="Lijiang">
+<div><img id="plijiang" src="p/plijiang.jpg"></div>
+<div id="box01"><p class="pa">古城</p></div>
+<div id="box02"><p class="pa">木府</p></div>
+<div class="box2"><p class="pa">玉龙雪山</p></div>
+<div class="box2"><p class="pa">泸沽湖</p></div>
+<div class="box2"><p class="pa">拉市海</p></div>
+<div class="box2"><p class="pa">束河古镇</p></div>
+<div class="box2"><p class="pa">虎跳峡</p></div>
+</div>
+<div id="Xiangge">
+<div><img id="pxianggelila" src="p/pxianggelila.jpg"></div>
+<div class="box2"><p class="pa">梅里雪山</p></div>
+<div class="box2"><p class="pa">松赞林寺</p></div>
+<div id="box03"><p class="pa">普达措</p></div>
+<div id="box04"><p class="pa">独克宗古城</p></div>
+<div id="box05"><p class="pa">龟山公园</p></div>
+<div class="box3"><p class="pa">白水台</p></div>
+<div class="box3"><p class="pa">亚丁村</p></div>
+</div>
+<div id="Xishuang">
+<img id="pxishuangbanna" src="p/pxishuangbana.jpg">
+<div class="box3"><p class="pa">热带植物园</p></div>
+<div class="box3"><p class="pa">原始森林公园</p></div>
+<div class="box3"><p class="pa">望天树景区</p></div>
+<div class="box3"><p class="pa">野象谷</p></div>
+<div id="box06"><p class="pa">万达主题公园</p></div>
+<div id="box07"><p class="pa">曼听公园</p></div>
+</div>
+</div>
+<div id="end">
+<p>————————————————————————————————————————————</p>
+</div>
